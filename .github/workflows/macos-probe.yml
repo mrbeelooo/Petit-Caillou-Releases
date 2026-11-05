@@ -1,0 +1,13 @@
+name: macOS runner probe
+# Test temporaire : mesure si un runner macOS arm64 est attribué dans un dépôt public. À supprimer ensuite.
+on:
+  push:
+    branches: [claude/project-thread-8yr42c]
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: macos-latest
+    timeout-minutes: 5
+    steps:
+      - run: uname -m && sw_vers
