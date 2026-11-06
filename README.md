@@ -1,6 +1,6 @@
 # PetitCaillou
 
-**PetitCaillou** is a free four-stage phaser in the spirit of 1970s phase pedals, with a fully vector interface and three skins (Warm Red, Raw Alu, Cold Blue).
+**PetitCaillou** is a free four-stage phaser in the spirit of 1970s phase pedals, with a realistic 3D interface (built with Blender) and three skins (Warm Red, Raw Alu, Cold Blue).
 
 - **Windows 10/11 (64-bit)**: VST3 + standalone application
 - **macOS 10.13 or later (Apple Silicon and Intel)**: AU, VST3 + standalone application
